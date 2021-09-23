@@ -1,0 +1,25 @@
+{
+  "success": [
+      {
+          "0": {
+              "item_id": "1415",
+              "delivery_order_id": "351",
+              "order_item_id": "1068758",
+              "qty_ordered": "1",
+              "qty_delivered": "1",
+              "qty_damaged": 1,
+              "created_at": "2018-01-04 10:55:41",
+              "comment_id": "2742546",
+              "ean": "0200500220520",
+              "image": null,
+              "increment_id": "187292254",
+              "sku": "3007766K",
+              "name": "VÄGGHÄNGD TOALETT GROHE SOLIDO + CAMARGUE ROM RIMFREE",
+              "row_weight": "17.2000",
+              "comment": "Test1"
+          },
+          "message": "Resource updated successful.",
+          "code": 200
+      }
+  ]
+}

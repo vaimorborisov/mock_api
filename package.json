@@ -1,0 +1,23 @@
+{
+  "name": "mock_api",
+  "version": "1.0.0",
+  "description": "test_api",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaimorborisov/mock_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaimorborisov/mock_api/issues"
+  },
+  "homepage": "https://github.com/vaimorborisov/mock_api#readme"
+}
