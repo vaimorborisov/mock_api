@@ -50,49 +50,10 @@
                           "name": "TAKDUSCHSET GROHE VITALIO START CC160",
                           "comment": null
                       },
-                  ]  
-                      {
-                          "entity_id": "26503",
-                          "delivery_order_id": "15283",
-                          "increment_id": "101026632",
-                          "route_code": "201118-AUTO0001",
-                          "vehicle_id": "1",
-                          "action_type": "2",
-                          "name": "Emil Gunnar Hjertberg",
-                          "geolocation": "57.8562 12.1235",
-                          "arrival_time": "2018-11-20 10:46:00",
-                          "departure_time": "2018-11-20 11:01:00",
-                          "duration": "27",
-                          "distance": "26",
-                          "partner_id": "3",
-                          "phone": "0706112380",
-                          "delivery_time": "10:00-13:00",
-                          "delivery_address": "Björsjövägen 10, Olofstorp, 42491, SE",
-                          "status": "4",
-                          "gross_weight": "11",
-                          "notice": null,
-                          "position": "5",
-                          "comment": null,
-                          "plate_number": "YKB495",
-                          "vehicle_code": "Bil 1 ",
-                          "additional_services": "",
-                          "product_data": [
-                              {
-                                  "item_id": "28697",
-                                  "id": "4174851",
-                                  "qty": "1",
-                                  "qty_delivered": "1",
-                                  "qty_damaged": "0",
-                                  "ean": "7318302447595",
-                                  "image": "/media/catalog/product/cache/0/thumbnail/58bc28037422f6e75dbfc2a8d4119adb/2/0/2081250A.jpg",
-                                  "sku": "2081250A",
-                                  "name": "LYKTSTOLPE KONSTSMIDE MILANO SILVER/SVART 3X75W E27 IP43",
-                                  "comment": null
-                              }
-                            ]
-                        }
-                  },
-{"deliveries" : [
+                ]
+                }
+                ],
+ "deliveries" : [
                   {
                     "entity_id":"65",
                     "status":"9"
