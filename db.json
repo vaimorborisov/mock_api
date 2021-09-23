@@ -52,11 +52,5 @@
                       },
                 ]
                 }
-                ],
- "deliveries" : [
-                  {
-                    "entity_id":"65",
-                    "status":"9"
-                  }
                 ]
               }
