@@ -1,25 +1,101 @@
 {
-  "success": [
-      {
-          "0": {
-              "item_id": "1415",
-              "delivery_order_id": "351",
-              "order_item_id": "1068758",
-              "qty_ordered": "1",
-              "qty_delivered": "1",
-              "qty_damaged": 1,
-              "created_at": "2018-01-04 10:55:41",
-              "comment_id": "2742546",
-              "ean": "0200500220520",
-              "image": null,
-              "increment_id": "187292254",
-              "sku": "3007766K",
-              "name": "VÄGGHÄNGD TOALETT GROHE SOLIDO + CAMARGUE ROM RIMFREE",
-              "row_weight": "17.2000",
-              "comment": "Test1"
-          },
-          "message": "Resource updated successful.",
-          "code": 200
-      }
-  ]
-}
+  "route_stop": [
+                {
+                  "entity_id": "26493",
+                  "delivery_order_id": "15317",
+                  "increment_id": "101028224",
+                  "route_code": "201118-AUTO0001",
+                  "vehicle_id": "1",
+                  "action_type": "2",
+                  "name": "Qin Huang",
+                  "geolocation": "57.7927 11.9973",
+                  "arrival_time": "2018-11-20 06:49:00",
+                  "departure_time": "2018-11-20 07:04:00",
+                  "duration": "8",
+                  "distance": "7",
+                  "partner_id": "3",
+                  "phone": "0738088868",
+                  "delivery_time": "07:00-10:30",
+                  "delivery_address": "Klockarevägen 140, HISINGS KÄRRA, 42530, SE",
+                  "status": "4",
+                  "gross_weight": "164",
+                  "notice": null,
+                  "position": "1",
+                  "comment": null,
+                  "plate_number": "YKB495",
+                  "vehicle_code": "Bil 1 ",
+                  "additional_services": "",
+                  "product_data": [
+                      {
+                          "item_id": "28759",
+                          "id": "4181813",
+                          "qty": "1",
+                          "qty_delivered": "1",
+                          "qty_damaged": "0",
+                          "ean": "0200500199154",
+                          "image": "/media/catalog/product/cache/0/thumbnail/048850653c48b271ee60bdc9fabbf80f/3/0/3009506A.jpg",
+                          "sku": "3009506A",
+                          "name": "BADRUMSMÖBEL CAMARGUE VIKEN SLÄT SVART 56 CM",
+                          "comment": null
+                      },
+                      {
+                          "item_id": "28761",
+                          "id": "4181815",
+                          "qty": "1",
+                          "qty_delivered": "1",
+                          "qty_damaged": "0",
+                          "ean": "4005176408199",
+                          "image": "/media/catalog/product/cache/0/thumbnail/48b2928cbecb52cbc26e3da474922182/3/0/3019545A.jpg",
+                          "sku": "3019545A",
+                          "name": "TAKDUSCHSET GROHE VITALIO START CC160",
+                          "comment": null
+                      },
+                  ]  
+                      {
+                          "entity_id": "26503",
+                          "delivery_order_id": "15283",
+                          "increment_id": "101026632",
+                          "route_code": "201118-AUTO0001",
+                          "vehicle_id": "1",
+                          "action_type": "2",
+                          "name": "Emil Gunnar Hjertberg",
+                          "geolocation": "57.8562 12.1235",
+                          "arrival_time": "2018-11-20 10:46:00",
+                          "departure_time": "2018-11-20 11:01:00",
+                          "duration": "27",
+                          "distance": "26",
+                          "partner_id": "3",
+                          "phone": "0706112380",
+                          "delivery_time": "10:00-13:00",
+                          "delivery_address": "Björsjövägen 10, Olofstorp, 42491, SE",
+                          "status": "4",
+                          "gross_weight": "11",
+                          "notice": null,
+                          "position": "5",
+                          "comment": null,
+                          "plate_number": "YKB495",
+                          "vehicle_code": "Bil 1 ",
+                          "additional_services": "",
+                          "product_data": [
+                              {
+                                  "item_id": "28697",
+                                  "id": "4174851",
+                                  "qty": "1",
+                                  "qty_delivered": "1",
+                                  "qty_damaged": "0",
+                                  "ean": "7318302447595",
+                                  "image": "/media/catalog/product/cache/0/thumbnail/58bc28037422f6e75dbfc2a8d4119adb/2/0/2081250A.jpg",
+                                  "sku": "2081250A",
+                                  "name": "LYKTSTOLPE KONSTSMIDE MILANO SILVER/SVART 3X75W E27 IP43",
+                                  "comment": null
+                              }
+                            ]
+                        }
+                  },
+{"deliveries" : [
+                  {
+                    "entity_id":"65",
+                    "status":"9"
+                  }
+                ]
+              }
